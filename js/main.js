@@ -9,7 +9,7 @@
   $(function() {
     return $('#bgBtn').on("click", function(event) {
       event.preventDefault();
-      console.log("Hello Harry");
+      console.log("Hello YONG HOW ARE YOU DOING TODAY? DO YOU GET IT?");
       return $('body').css('background', randomColor());
     });
   });

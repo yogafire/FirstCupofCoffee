@@ -5,6 +5,6 @@ $ ->
   $('#bgBtn').on "click", (event) ->
     event.preventDefault()
 
-    console.log "Hello Harry"
+    console.log "Hello YONG HOW ARE YOU DOING TODAY? YOU GET IT?"
 
     $('body').css 'background', randomColor()
